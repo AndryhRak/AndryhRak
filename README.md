@@ -1,6 +1,7 @@
 # Andriasalama Rakotoniaina
 Financial & Data Analyst
 
+
 ## Portfolio in Progress
 
 This GitHub profile is currently being developed.
